@@ -157,9 +157,9 @@
     <AndroidResource Include="Resources\drawable\perfil.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TestDrive2.Aula3\TestDrive2.Aula3.csproj">
-      <Project>{ad3ff9d0-4506-46c1-807e-60a50e92d92c}</Project>
-      <Name>TestDrive2.Aula3</Name>
+    <ProjectReference Include="..\TestDrive2.Aula4\TestDrive2.Aula4.csproj">
+      <Project>{b9cffe13-0c13-4912-ab26-cb0e7861f9a2}</Project>
+      <Name>TestDrive2.Aula4</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />

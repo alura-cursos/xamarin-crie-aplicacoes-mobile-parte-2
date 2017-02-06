@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDrive2.Aula2", "TestDri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDrive2.Aula3", "TestDrive\TestDrive2.Aula3\TestDrive2.Aula3.csproj", "{AD3FF9D0-4506-46C1-807E-60A50E92D92C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDrive2.Aula4", "TestDrive\TestDrive2.Aula4\TestDrive2.Aula4.csproj", "{B9CFFE13-0C13-4912-AB26-CB0E7861F9A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,9 +32,12 @@ Global
 		{E582A27B-AB62-426A-9CE0-8CCEBDAA2A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E582A27B-AB62-426A-9CE0-8CCEBDAA2A93}.Release|Any CPU.Build.0 = Release|Any CPU
 		{AD3FF9D0-4506-46C1-807E-60A50E92D92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AD3FF9D0-4506-46C1-807E-60A50E92D92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD3FF9D0-4506-46C1-807E-60A50E92D92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD3FF9D0-4506-46C1-807E-60A50E92D92C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CFFE13-0C13-4912-AB26-CB0E7861F9A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CFFE13-0C13-4912-AB26-CB0E7861F9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CFFE13-0C13-4912-AB26-CB0E7861F9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CFFE13-0C13-4912-AB26-CB0E7861F9A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
