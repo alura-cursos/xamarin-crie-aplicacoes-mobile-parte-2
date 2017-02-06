@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:TestDrive.ViewModels"
+             x:Class="TestDrive.Views.LoginView">
+    <ContentPage.BindingContext>
+        <vm:LoginViewModel></vm:LoginViewModel>
+    </ContentPage.BindingContext>
+    <StackLayout VerticalOptions="Center" Margin="64">
+        <Image Source="aluracar.png"></Image>
+        <Entry Placeholder="Usuário" Text="{Binding Usuario}"></Entry>
+        <Entry Placeholder="Senha" Text="{Binding Senha}" IsPassword="True"></Entry>
+        <Button Text="Entrar" Command="{Binding EntrarCommand}"></Button>
+    </StackLayout>
+</ContentPage>
