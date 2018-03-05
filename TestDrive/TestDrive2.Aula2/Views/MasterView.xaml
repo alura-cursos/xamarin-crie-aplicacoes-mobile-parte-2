@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TestDrive.Views.MasterView"
+             Title="Dados do Usuário">
+    <StackLayout 
+        HorizontalOptions="Center"
+        VerticalOptions="Center">
+        <Label Text="João da Silva" FontSize="18"></Label>
+        <Label Text="joao@alura.com.br" FontSize="18"></Label>
+    </StackLayout>
+</ContentPage>
