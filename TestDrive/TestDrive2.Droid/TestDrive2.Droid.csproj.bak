@@ -17,7 +17,7 @@
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <AndroidUseLatestPlatformSdk>true</AndroidUseLatestPlatformSdk>
-    <TargetFrameworkVersion>v7.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
     <AndroidSupportedAbis>armeabi,armeabi-v7a,x86</AndroidSupportedAbis>
     <AndroidStoreUncompressedFileExtensions />
     <MandroidI18n />
@@ -157,9 +157,9 @@
     <AndroidResource Include="Resources\drawable\perfil.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TestDrive2.Aula1\TestDrive2.Aula1.csproj">
-      <Project>{bcf6f09e-f92a-4ecb-b935-756ee2834f88}</Project>
-      <Name>TestDrive2.Aula1</Name>
+    <ProjectReference Include="..\TestDrive2.Aula6\TestDrive2.Aula6.csproj">
+      <Project>{ff84192c-8f44-4a97-af17-491ec944862f}</Project>
+      <Name>TestDrive2.Aula6</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
