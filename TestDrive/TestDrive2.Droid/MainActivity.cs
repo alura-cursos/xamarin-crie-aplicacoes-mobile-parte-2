@@ -7,7 +7,6 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 using TestDrive;
-using TestDrive.Media;
 using TestDrive.Droid;
 using Android.Provider;
 using Android.Content;
@@ -22,7 +21,6 @@ namespace TestDrive.Droid
     [Activity(Label = "TestDrive", Icon = "@drawable/icon", Theme = "@style/MainTheme", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
     public class MainActivity :
         global::Xamarin.Forms.Platform.Android.FormsAppCompatActivity
-        , ICamera
     {
         static Java.IO.File arquivoImagem;
 
