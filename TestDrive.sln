@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDrive.Droid", "TestDrive\TestDrive.Droid\TestDrive.Droid.csproj", "{FAD492D2-D362-4CBA-B453-CC047CFEE7CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDrive.Aula2", "TestDrive\TestDrive.Aula2\TestDrive.Aula2.csproj", "{7C8FBDE9-9956-4B9C-BDD1-A94ADAAD7ABA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDrive.Aula3", "TestDrive\TestDrive.Aula3\TestDrive.Aula3.csproj", "{AD3FF9D0-4506-46C1-807E-60A50E92D92C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,10 @@ Global
 		{FAD492D2-D362-4CBA-B453-CC047CFEE7CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAD492D2-D362-4CBA-B453-CC047CFEE7CA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FAD492D2-D362-4CBA-B453-CC047CFEE7CA}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{7C8FBDE9-9956-4B9C-BDD1-A94ADAAD7ABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C8FBDE9-9956-4B9C-BDD1-A94ADAAD7ABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C8FBDE9-9956-4B9C-BDD1-A94ADAAD7ABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C8FBDE9-9956-4B9C-BDD1-A94ADAAD7ABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD3FF9D0-4506-46C1-807E-60A50E92D92C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD3FF9D0-4506-46C1-807E-60A50E92D92C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD3FF9D0-4506-46C1-807E-60A50E92D92C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD3FF9D0-4506-46C1-807E-60A50E92D92C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
