@@ -174,9 +174,9 @@
     </AndroidResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TestDrive.Aula5\TestDrive.Aula5.csproj">
-      <Project>{ba9cf082-6a19-45b4-bc9b-b6fde95d78e7}</Project>
-      <Name>TestDrive.Aula5</Name>
+    <ProjectReference Include="..\TestDrive.Aula6\TestDrive.Aula6.csproj">
+      <Project>{ff84192c-8f44-4a97-af17-491ec944862f}</Project>
+      <Name>TestDrive.Aula6</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
