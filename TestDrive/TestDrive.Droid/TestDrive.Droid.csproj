@@ -160,10 +160,20 @@
     <AndroidResource Include="Resources\values\styles.xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TestDrive.Aula1\TestDrive.Aula1.csproj">
+    <ProjectReference Include="..\TestDrive.Aula2\TestDrive.Aula2.csproj">
       <Project>{7c8fbde9-9956-4b9c-bdd1-a94adaad7aba}</Project>
-      <Name>TestDrive.Aula1</Name>
+      <Name>TestDrive.Aula2</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\aluracar.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\perfil.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </AndroidResource>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <Import Project="..\..\packages\Xamarin.Android.Support.Vector.Drawable.23.3.0\build\Xamarin.Android.Support.Vector.Drawable.targets" Condition="Exists('..\..\packages\Xamarin.Android.Support.Vector.Drawable.23.3.0\build\Xamarin.Android.Support.Vector.Drawable.targets')" />

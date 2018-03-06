@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDrive.Droid", "TestDrive\TestDrive.Droid\TestDrive.Droid.csproj", "{FAD492D2-D362-4CBA-B453-CC047CFEE7CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDrive.Aula1", "TestDrive\TestDrive.Aula1\TestDrive.Aula1.csproj", "{7C8FBDE9-9956-4B9C-BDD1-A94ADAAD7ABA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDrive.Aula2", "TestDrive\TestDrive.Aula2\TestDrive.Aula2.csproj", "{7C8FBDE9-9956-4B9C-BDD1-A94ADAAD7ABA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
